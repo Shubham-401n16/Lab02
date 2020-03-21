@@ -1,12 +1,12 @@
-# LAB - 01
+# LAB - 02
 
-## Node Ecosystem
+## Classes, Inheritance, Functional Programming
 
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR](https://github.com/Shubham-401n16/Lab01/pull/1)
-* [Github Actions](https://github.com/Shubham-401n16/Lab01/actions)
+* [submission PR](https://github.com/Shubham-401n16/Lab02/pull/1)
+* [Github Actions](https://github.com/Shubham-401n16/Lab02/actions)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
