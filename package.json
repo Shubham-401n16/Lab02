@@ -1,0 +1,31 @@
+{
+  "name": "Lab02",
+  "version": "1.0.0",
+  "description": "## Node Ecosystem",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test-watch": "jest --watchAll --verbose",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-401n16/Lab02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-401n16/Lab02/issues"
+  },
+  "homepage": "https://github.com/Shubham-401n16/Lab02#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
